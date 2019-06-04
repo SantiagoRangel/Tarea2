@@ -1,0 +1,7 @@
+Para compilar, escribir desde una terminal:
+
+$ g++ -o main.o -Iheaders main.cpp
+
+Ejecutar el archivo de prueba con:
+
+$ ./main.o
